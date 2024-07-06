@@ -156,7 +156,7 @@ h1 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 50px;
-  
+
     padding: 100px 250px;
 }
 
@@ -177,7 +177,7 @@ h1 {
     border-radius: 8px;
 }
 
-.grid-item h1 {   
+.grid-item h1 {
     font-size: 28px;
     font-weight: bold;
 }
